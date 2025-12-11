@@ -1,0 +1,140 @@
+🔶 1. Mod Structure & Code Requirements
+✔ Project builds and runs with Forge 1.21.1
+
+gradlew runClient launches Minecraft successfully
+
+No missing-texture errors
+
+No crash on world load
+
+✔ Uses DeferredRegister for:
+
+Blocks
+
+Items
+
+Creative mode tab
+
+✔ Contains a main mod class:
+finalprojectmod.java
+
+✔ Custom ForgeTier implemented for tools
+✔ Custom food item with unique status effect
+✔ Proper Java package structure
+🔶 2. Custom Content Requirements
+✔ Custom Blocks (4 total)
+
+Crystal Ore
+
+Crystal Block
+
+Crystal Bricks
+
+Crystal Glass
+
+✔ Custom Items (11+)
+
+Crystal Shard
+
+Crystal Bread
+
+Full Crystal Tool Set (5 tools)
+
+Full Crystal Armor Set (4 pieces)
+
+Total custom items/blocks: 15+ (requirement met)
+
+🔶 3. JSON Requirements
+✔ Blockstates JSON files
+
+crystal_ore.json
+
+crystal_block.json
+
+crystal_bricks.json
+
+crystal_glass.json
+
+✔ Block model JSONs
+✔ Item model JSONs
+✔ Recipes JSONs
+
+Tools
+
+Armor
+
+Bread
+
+Blocks ↔ shards
+
+Smelting & blasting
+
+✔ Loot tables
+
+Ore drops shards (Fortune supported)
+
+Block items drop correctly
+
+Custom chest loot table included
+
+🔶 4. Texture/Art Requirements
+✔ All textures are:
+
+16×16 original pixel art
+
+Stored in correct folders:
+
+textures/block/
+textures/item/
+
+✔ All textures match model filenames
+✔ No placeholder or default textures
+🔶 5. Advanced Features (Choose 3)
+
+This mod includes more than required:
+
+✔ New Ore (Crystal Ore)
+✔ Custom Tool Set (using custom tier)
+✔ Custom Armor Set
+✔ Custom Loot Tables (beyond required)
+✔ Custom Food with Status Effect
+🔶 6. Deliverables
+✔ GitHub Repository containing:
+
+Source code
+
+JSONs
+
+Textures
+
+README.md
+
+Screenshot folder (optional but recommended)
+
+✔ README File Includes:
+
+Overview
+
+Feature list
+
+Rubric checklist
+
+Screenshots
+
+Credits
+
+✔ Short Video (max 5 minutes)
+
+Instructor should see:
+
+Items in creative tab
+
+Breaking crystal ore
+
+Crafting tools/armor
+
+Wearing armor
+
+Eating crystal bread (Glow effect)
+
+Using tools
