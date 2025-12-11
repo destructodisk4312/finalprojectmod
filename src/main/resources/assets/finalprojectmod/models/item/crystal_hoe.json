@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "finalprojectmod:item/crystal_hoe"
+  }
+}

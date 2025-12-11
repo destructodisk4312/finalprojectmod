@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "S": { "item": "finalprojectmod:crystal_shard" }
+  },
+  "result": {
+    "item": "finalprojectmod:crystal_boots",
+    "count": 1
+  }
+}

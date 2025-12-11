@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "finalprojectmod:crystal_block"
+    }
+  },
+  "result": {
+    "item": "finalprojectmod:crystal_bricks",
+    "count": 4
+  }
+}

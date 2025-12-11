@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "T",
+    "T"
+  ],
+  "key": {
+    "S": { "item": "finalprojectmod:crystal_shard" },
+    "T": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "finalprojectmod:crystal_shovel",
+    "count": 1
+  }
+}

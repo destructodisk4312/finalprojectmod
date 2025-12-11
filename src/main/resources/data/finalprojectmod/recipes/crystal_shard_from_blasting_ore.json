@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "finalprojectmod:crystal_ore"
+  },
+  "result": "finalprojectmod:crystal_shard",
+  "experience": 0.7,
+  "cookingtime": 100
+}

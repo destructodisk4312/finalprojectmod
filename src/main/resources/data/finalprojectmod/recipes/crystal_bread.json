@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bread" },
+    { "item": "finalprojectmod:crystal_shard" }
+  ],
+  "result": {
+    "item": "finalprojectmod:crystal_bread",
+    "count": 1
+  }
+}
